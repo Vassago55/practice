@@ -1,3 +1,2 @@
-Git is best.
-Git is dengrous.
-
+Git is bads.
+Git is beautiful.
